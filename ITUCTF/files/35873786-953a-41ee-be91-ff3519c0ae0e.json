@@ -1,0 +1,9 @@
+{
+    "device_name": "SmartWasher",
+    "mqtt_broker": "192.168.1.100",
+    "mqtt_port": 1883,
+    "flag": {
+        "iv": "Mu2yQqeHK04lRpdFozVYqw==",
+        "data": "ZV4fQSmDoPIcNwyDLZcADa858SfmY6Sjc+3H3tSqTC0="
+    }
+}
