@@ -9,7 +9,7 @@ Başlangıçta kullandığım formatların kusurlu olabileceğinin farkındayım
 
 | Yarışma Adı         | Tarih        | Sıralama  | Writeup |
 |---------------------|--------------|-----------|---------|
-| Zoolander CTF       | Haziran 2025 | 13.       | [Yazıya Git](./ITUCTF/) |
+| ITU CTF       | Haziran 2025 | 13.       | [Yazıya Git](./ITUCTF/) |
 | ...                 | ...          | ...       | ...     |
 
 > Yeni yarışmalara katıldıkça tablo güncellenecektir.
