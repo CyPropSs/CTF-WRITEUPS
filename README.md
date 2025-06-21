@@ -17,8 +17,5 @@ Başlangıçta kullandığım formatların kusurlu olabileceğinin farkındayım
 ---
 
 ## 📫 İletişim
-
-**Buğra Kaya**  
-GitHub: [@CyPropSs]  
 E-posta: [bugar.kaya@gmail.com]
 
