@@ -9,9 +9,9 @@ Başlangıçta kullandığım formatların kusurlu olabileceğinin farkındayım
 
 | Yarışma Adı         | Tarih        | Sıralama  | Writeup |
 |---------------------|--------------|-----------|---------|
-| ITU CTF       | 21 Haziran 2025 | 13.       | [Yazıya Git](./ITUCTF/) |
+| ITU CTF       | 21 Haziran 2025 | 13/141      | [Yazıya Git](./ITUCTF/) |
+| TSGK CTF                | 22 Mart 2025          | 48 (emin olmamakla beraber 900den fazla kişi katıldı)     | > yok.    |
 | ...                 | ...          | ...       | ...     |
-
 > Yeni yarışmalara katıldıkça tablo güncellenecektir.
 
 ---
