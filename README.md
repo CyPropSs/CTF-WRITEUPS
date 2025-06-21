@@ -7,11 +7,11 @@ Başlangıçta kullandığım formatların kusurlu olabileceğinin farkındayım
 
 ## 📋 Katıldığım CTF'ler ve Sıralamalarım
 
-| Yarışma Adı         | Tarih        |Takım| Sıralama  | Writeup |
-|---------------------|--------------|Yok|-----------|---------|
-| ITU CTF       | 21 Haziran 2025 |Yok| 13/141      | [Yazıya Git](./ITUCTF/) |
-| TSGK CTF                | 22 Mart 2025          |Yok| 48 (emin olmamakla beraber 900den fazla kişi katıldı)     | ...  |
-| ...                 | ...          |Yok| ...       | ...     |
+| Yarışma Adı         | Tarih        | Takım  | Sıralama  | Writeup |
+|---------------------|--------------|--------|-----------|---------|
+| ITU CTF             | 21 Haziran 2025 | Yok  | 13/141      | [Yazıya Git](./ITUCTF/) |
+| TSGK CTF            | 22 Mart 2025    | Yok  | 48 (emin olmamakla beraber 900den fazla kişi katıldı)     | ...  |
+| ...                 | ...             | Yok  | ...       | ...     |
 > Yeni yarışmalara katıldıkça tablo güncellenecektir.
 
 ---
