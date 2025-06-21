@@ -1,4 +1,4 @@
-# CTF Yarışma Deneyimi – Zoolander CTF
+# CTF Yarışma Deneyimi – ITU CTF
 
 ## 📅 Süre
 Yarışma süresi toplam **3 saat** sürdü.
