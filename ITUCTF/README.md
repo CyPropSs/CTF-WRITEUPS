@@ -1,4 +1,4 @@
-# CTF Yarışma Deneyimi – ITU CTF
+# ITUCTF 2025 Writeup 
 
 ## 📅 Süre
 Yarışma süresi toplam **3 saat** sürdü.
