@@ -11,7 +11,7 @@ Başlangıçta kullandığım formatların kusurlu olabileceğinin farkındayım
 |---------------------|--------------|--------|-----------|---------|
 | ITU CTF             | 21 Haziran 2025 | Yok  | 13/141      | [Yazıya Git](./ITUCTF/) |
 | TSGK CTF            | 22 Mart 2025    | Yok  | 48 (emin olmamakla beraber 900den fazla kişi katıldı)     | ...  |
-| ...                 | ...             | Yok  | ...       | ...     |
+| ...                 | ...             | ...  | ...       | ...     |
 > Yeni yarışmalara katıldıkça tablo güncellenecektir.
 
 ---
