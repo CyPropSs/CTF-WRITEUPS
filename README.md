@@ -7,10 +7,11 @@ Başlangıçta kullandığım formatların kusurlu olabileceğinin farkındayım
 
 ## 📋 Katıldığım CTF'ler ve Sıralamalarım
 
-| Yarışma Adı         | Tarih           | Takım | Sıralama | Writeup |
+| Yarışma Adı         | Tarih           | Takım(üye) | Sıralama | Writeup |
 |---------------------|------------------|--------|----------|---------|
-| **ITU CTF 2025**    | 21 Haziran 2025 | Yok    | 13 / 141 | [ITU CTF 2025 Writeup](./ITUCTF/) |
-| TSGK CTF            | 22 Mart 2025     | Yok    | 48 / 511       | ...     |
+| **ITU CTF 2025**    | 21 Haziran 2025 | Bugi(1)    | 13 / 141 | [ITU CTF 2025 Writeup](./ITUCTF/) |
+| **TSGK CTF**            | 22 Mart 2025     | Bugi(1)   | 48 / 511       | ...     |
+| **TUSEC CTF**          | 22 Nisan 2025     | Bugi(1)   | 13    | ...     |
 | ...                 | ...              | ...    | ...      | ...     |
 > Yeni yarışmalara katıldıkça tablo güncellenecektir.
 
