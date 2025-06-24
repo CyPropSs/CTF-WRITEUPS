@@ -11,7 +11,7 @@ Başlangıçta kullandığım formatların kusurlu olabileceğinin farkındayım
 |---------------------|------------------|--------|----------|---------|
 | **TSGK CTF**            | 22 Mart 2025     | Bugi(1)   | 48 / 511       | ...     |
 | **TUSEC CTF**          | 22 Nisan 2025     | Bugi(1)   | 13    | ...     |
-| **ITU CTF 2025**    | 21 Haziran 2025 | Bugi(1)    | 13 / 141 | [ITU CTF 2025 Writeup](./ITUCTF/) |
+| **ITU CTF 2025**    | 21 Haziran 2025 | Bugi(1)    | 11 / 141 | [ITU CTF 2025 Writeup](./ITUCTF/) |
 | ...                 | ...              | ...    | ...      | ...     |
 > Yeni yarışmalara katıldıkça tablo güncellenecektir.
 
